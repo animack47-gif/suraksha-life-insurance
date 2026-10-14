@@ -1,0 +1,46 @@
+{
+ "leads": {
+  "Lf8a582c5": {
+   "name": "Animesh",
+   "phone": "+919867696218",
+   "city": "Ghatkopar",
+   "status": "CALLING_SCREENING",
+   "reason": "",
+   "n_screening": 1,
+   "n_scheduling": 0,
+   "slot": null,
+   "screening": null
+  },
+  "L4bd32af3": {
+   "name": "Hamza",
+   "phone": "+917021127975",
+   "city": "Kurla",
+   "status": "CALLING_SCREENING",
+   "reason": "",
+   "n_screening": 1,
+   "n_scheduling": 0,
+   "slot": null,
+   "screening": null
+  }
+ },
+ "calls": {
+  "a9ac51aa-ca73-4c20-9762-411ee2eb5119": {
+   "lead": "Lf8a582c5",
+   "stage": "screening",
+   "offered": [],
+   "done": false,
+   "empty": 0
+  },
+  "25949847-2b3a-4771-953a-a4438be9e560": {
+   "lead": "L4bd32af3",
+   "stage": "screening",
+   "offered": [],
+   "done": false,
+   "empty": 0
+  }
+ },
+ "agents": {
+  "screening": "e15906a5-096d-45a0-b14c-cd8d137dcdb7",
+  "scheduling": "a701be59-4148-46e9-9a5f-d8517e5d1b88"
+ }
+}
